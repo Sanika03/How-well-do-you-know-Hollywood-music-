@@ -47,3 +47,7 @@ function play(){
     quiz(currentQuestion.question, currentQuestion.answer);
   }
 }
+
+function finalDisplay() {
+  console.log("Yayyyy Your Score is : " + score);
+}
