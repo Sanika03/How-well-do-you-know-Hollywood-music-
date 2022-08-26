@@ -40,3 +40,10 @@ function quiz(question, answer){
   console.log("Current score = " + score);
   console.log("::::::::::::::::::::");
 }
+
+function play(){
+  for(var i=0; i<questions.length; i++){
+    var currentQuestion = questions[i];
+    quiz(currentQuestion.question, currentQuestion.answer);
+  }
+}
