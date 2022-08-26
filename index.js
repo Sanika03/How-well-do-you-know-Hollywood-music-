@@ -62,6 +62,7 @@ function play(){
 function finalDisplay() {
   console.log("Yayyyy Your Score is : " + score);
   console.log("Check out the high scores and if you scored more ping me and you'll be on the top");
+  console.log("High Scores :-")
     highScores.map(score => console.log(score.name, " : ", score.score));
 }
 
