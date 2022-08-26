@@ -1,5 +1,7 @@
 var readlineSync = require('readline-sync');
 
+var score = 0;
+
 var questions = [{
     question : "Who sung the song 'Go Flex' ? ",
     answer : 'Post Malone'
@@ -28,9 +30,13 @@ function quiz(question, answer){
   
   if(userAnswer.toLowerCase() === answer.toLowerCase()){ 
     console.log("Right !");
+    score++;
   }
   else{
     console.log("Wrong !");
     console.log(answer);
   }
+  
+  console.log("Current score = " + score);
+  console.log("::::::::::::::::::::");
 }
