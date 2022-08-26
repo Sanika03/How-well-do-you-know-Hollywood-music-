@@ -2,6 +2,17 @@ var readlineSync = require('readline-sync');
 
 var score = 0;
 
+var highScores = [
+  {
+    name : "Shruti",
+    score : 4
+  } , 
+  {
+    name : "Neelu",
+    score : 5
+  }
+];
+
 var questions = [{
     question : "Who sung the song 'Go Flex' ? ",
     answer : 'Post Malone'
@@ -50,4 +61,6 @@ function play(){
 
 function finalDisplay() {
   console.log("Yayyyy Your Score is : " + score);
+  console.log("Check out the high scores and if you scored more ping me and you'll be on the top");
+    highScores.map(score => console.log(score.name, " : ", score.score));
 }
