@@ -64,3 +64,7 @@ function finalDisplay() {
   console.log("Check out the high scores and if you scored more ping me and you'll be on the top");
     highScores.map(score => console.log(score.name, " : ", score.score));
 }
+
+welcome();
+play();
+finalDisplay();
