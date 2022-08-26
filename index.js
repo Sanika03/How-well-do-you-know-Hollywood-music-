@@ -16,3 +16,9 @@ var questions = [{
     question : "One Direction's song 'Night Changes' is from which album ? ",
     answer : 'Four'
   }];
+
+function welcome(){
+  var userName = readlineSync.question('What is your name ? ');
+  console.log('Welcome ' + userName + ' !');
+  console.log("LET'S CHECK HOW WELL YOU KNOW ME !");
+}
