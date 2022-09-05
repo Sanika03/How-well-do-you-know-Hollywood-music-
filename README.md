@@ -1,6 +1,6 @@
 # **How-well-do-you-know-Hollywood-music-**
 
-### ABOUT THE PROJECT :
+### ABOUT :
   
   A quiz about hollywood music.
   
