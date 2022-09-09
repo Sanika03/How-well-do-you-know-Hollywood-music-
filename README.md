@@ -29,7 +29,7 @@
   Don't forget to give the project a star! Thanks again for your time!
   
   Here's how you can fork the repo : 
-  1. Click on the [project link](?embed=1&output=1%20add).
+  1. Click on the [project link](https://replit.com/@SanikaSuryawans/How-well-do-you-know-Hollywood-music#index.js?embed=1&output=1%20add).
   2. Click on the fork button in the top right corner and follow along.
   
   
