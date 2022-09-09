@@ -46,6 +46,6 @@
 
 ### ACKNOWLEDGMENTS : 
 
-  neoG Camp's tutorial by Tanay Pratap helped me make my first CLI app.
+  neoG Camp's tutorial by Tanay Pratap helped me make my CLI app.
   
   Here's the [link](https://www.youtube.com/watch?v=_L-UszPmy2A&t=795s) to the tutorial.
