@@ -39,6 +39,8 @@
   
   [Twitter](https://twitter.com/Sanika_0305)
   
+  <a href="https://www.linkedin.com/in/sanika-suryawanshi-b17181205/">LinkedIn</a>
+  
   <a href="mailto:sanikasuryawanshi0305@gmail.com">Email</a>  
   
   [Project link](https://replit.com/@SanikaSuryawans/How-well-do-you-know-Hollywood-music#index.js?embed=1&output=1%20add)
